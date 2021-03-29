@@ -1,4 +1,4 @@
-# shell-backdoor v1.0
+# shell-backdoor Premium v2
 
 :sparkle: I created this script to help make it easier for you to directly attack index.html on the website :smile:<br>
 for the advantages of the features of this script I have completed everything. you can check the features below :smile:<br>
@@ -15,7 +15,8 @@ I optimize for updates as soon as possible, for a better experience.
 - [x] find targeted websites that are vulnerable to hacker attacks.
 - [x] after we can get the target website, we do a backdoor planting
 - [x] after planting the backdoor we make a call in the browser url
-- [x] for an example you can see below  
+- [x] for an example you can see below 
+- [x] Website has been hacked (http://50.192.61.201/) 
 
 # Features Meow404 Shell v1.0
 - [x] about.php
