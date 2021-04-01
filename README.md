@@ -1,6 +1,6 @@
 # shell-backdoor Premium v2
 
-:sparkle: I created this script to help make it easier for you to directly attack index.html on the website :smile:<br>
+:sparkle: I created this script to help make it easier for you to directly attack index.html / index.php / phpmyadmin on the website :smile:<br>
 for the advantages of the features of this script I have completed everything. you can check the features below :smile:<br>
 I optimize for updates as soon as possible, for a better experience.
 
