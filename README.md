@@ -16,7 +16,6 @@ I optimize for updates as soon as possible, for a better experience.
 - [x] after we can get the target website, we do a backdoor planting
 - [x] after planting the backdoor we make a call in the browser url
 - [x] for an example you can see below 
-- [x] Website has been hacked (http://50.192.61.201/) 
 ![penucuriCode](https://github.com/penucuriCode/shell-backdoor/blob/main/howtouse.gif)
 
 
