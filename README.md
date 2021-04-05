@@ -4,7 +4,7 @@
 for the advantages of the features of this script I have completed everything. you can check the features below :smile:<br>
 I optimize for updates as soon as possible, for a better experience.
 
-# Password shell-backdoor Premium V2
+# Password shell-backdoor (1)
 - [x] username : meow404
 - [x] password : penucuriCode 
 
@@ -12,7 +12,7 @@ I optimize for updates as soon as possible, for a better experience.
 ![penucuriCode](https://github.com/penucuriCode/shell-backdoor/blob/main/ss1.PNG)
 ![penucuriCode](https://github.com/penucuriCode/shell-backdoor/blob/main/Spoiler02.PNG)
 
-# Password shell-backdoor IndoSec feat PenecuriCode
+# Password shell-backdoor IndoSec feat PenecuriCode (2)
 - [x] password : penucuricode
 
 
